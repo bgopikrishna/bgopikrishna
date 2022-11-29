@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gopi Krishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📝 I write articles on [https://gopikrishna.dev/blog](gopikrishna.dev/blog)
+- 📝 I write articles on [https://gopikrishna.dev/blog](https://gopikrishna.dev/blog)
 
 - 💬 Ask me about **react, vue and javascript**
 
